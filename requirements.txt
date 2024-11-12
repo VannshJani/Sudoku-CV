@@ -1,7 +1,7 @@
 streamlit
 matplotlib
 tensorflow
-skimage
+scikit-image
 scipy
 numpy
 cv2
