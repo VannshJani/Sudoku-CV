@@ -1,6 +1,6 @@
 streamlit
 matplotlib
-tensoflow
+tensorflow
 skimage
 scipy
 numpy
