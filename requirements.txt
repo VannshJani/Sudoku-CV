@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+tensoflow
+keras
+numpy
+cv2
