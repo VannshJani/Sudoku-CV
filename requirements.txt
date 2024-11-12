@@ -4,4 +4,4 @@ tensorflow
 scikit-image
 scipy
 numpy
-cv2
+opencv-python
