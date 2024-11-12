@@ -4,4 +4,4 @@ tensorflow
 scikit-image
 scipy
 numpy
-opencv-python
+opencv-python-headless
